@@ -17,3 +17,5 @@ C:\Users\tonif\source\repos\Proiect\Proiect\obj\Debug\net5.0-windows\Proiect.dll
 C:\Users\tonif\source\repos\Proiect\Proiect\obj\Debug\net5.0-windows\ref\Proiect.dll
 C:\Users\tonif\source\repos\Proiect\Proiect\obj\Debug\net5.0-windows\Proiect.pdb
 C:\Users\tonif\source\repos\Proiect\Proiect\obj\Debug\net5.0-windows\Proiect.genruntimeconfig.cache
+C:\Users\tonif\source\repos\Proiect\Proiect\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\tonif\source\repos\Proiect\Proiect\obj\Debug\net5.0-windows\Proiect.csproj.CopyComplete
